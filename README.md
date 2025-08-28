@@ -7,7 +7,7 @@ En interaktiv karttjänst för att utforska förskolors i Sverige med 3D-visuali
 - **3D Interaktiv Karta** - Utforska förskolor med Mapbox 3D-rendering
 - **Omfattande Statistik** - Personaltäthet, lärarexamen, betyg och mer
 - **Smart Filtrering** - Sök efter kommun, betyg, personalstatistik
-- **Google Integration** - Betyg, bilder och kontaktinformation
+- **Google Integration** - Betyg, bilder och kontaktinformat ion
 - **Real-time Data** - Uppdaterad data från Skolverket
 
 ## 🛠️ Teknisk Stack
